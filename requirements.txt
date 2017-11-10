@@ -1,0 +1,7 @@
+python-twitter
+python-dotenv
+lxml
+beautifulsoup4
+aiohttp
+slackclient
+uvloop
